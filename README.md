@@ -2,7 +2,7 @@
 - 👀 I’m interested in pratical Python application that I can use at home or in the office
 - 🌱 I’m currently learning basics
 - 💞️ I’m looking to collaborate on office applications
-- 📫 Zou can reach me per mail geertvanw@home.nl 
+- 📫 You can reach me per mail geertvanw@home.nl 
 
 <!---
 Pendler7OL/Pendler7OL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
